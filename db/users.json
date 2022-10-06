@@ -9,12 +9,24 @@
     "username": "user1",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false,
-    "money": 1000
+    "money": 2000
   },
   {
     "username": "user2",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false,
+    "money": 2500
+  },
+  {
+    "username": "user3",
+    "password": "$2b$12$agx7DOy1Hs9VHghe66Bex.j4VLjwWCCyj5c3ciFsE3ztUij9auyJG",
+    "isAdmin": false,
     "money": 500
+  },
+  {
+    "username": "admin2",
+    "password": "$2b$12$kMGNQ2EscNy8i06sqBDA6OFs1aeljRoMLBU0cjfKDb2F99XVdCc.m",
+    "isAdmin": true,
+    "money": null
   }
 ]
